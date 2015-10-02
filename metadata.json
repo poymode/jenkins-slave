@@ -1,0 +1,14 @@
+{
+  "name": "jenkins-slave",
+  "version": "0.1.0",
+  "author": "Jan Mendoza",
+  "summary": "Install the default Jenkins Slave",
+  "license": "Apache 2.0",
+  "source": "https://github.com/poymode/puppet-jenkins-slave.git",
+  "project_page": "https://github.com/poymode/puppet-jenkins-slave",
+  "issues_url": "https://github.com/poymode/puppet-jenkins-slave/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
